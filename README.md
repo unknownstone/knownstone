@@ -1,1 +1,2 @@
-# knownstone will fill this later.
+# knownstone web project.
+More information about this soon.
